@@ -4,5 +4,5 @@ Pillow
 numpy
 scikit-image
 opencv-python
-cupy
-cucim
+cupy-cuda12x
+cucim-cu12
